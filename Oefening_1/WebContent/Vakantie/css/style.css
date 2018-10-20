@@ -6,11 +6,15 @@ body{
 
 
 ul {
+	position:fixed;
+	width:100%;
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    margin-top: -10px;
+    margin-left: -8px;
 }
 
 li {
@@ -32,3 +36,39 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
+
+.mainDiv{
+	
+	width: 80%;
+	margin: auto;
+	padding-top: 5vh;
+	
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding: 4vh 0;
+}
+
+footer{
+	font-size: 67.6%;
+    width: 50%;
+    margin: auto;
+	
+	}
+
+.parafooter{
+	
+	text-align: center;
+}
+
+
+
+
+
+
+
+
