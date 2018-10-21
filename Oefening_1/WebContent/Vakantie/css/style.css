@@ -65,7 +65,33 @@ footer{
 	text-align: center;
 }
 
+p{
+	
+	font-size: 1.2vw;
+}
 
+h1{
+	font-size: 2.2vw;
+	
+}
+
+a{
+	
+	font-size: 1vw;
+}
+
+
+span {
+	background-color: #4CAF50;
+    padding: 0.2vw 0.3vw 0.1vw 0.3vw;
+    font-size: 1.4vw;
+    margin: 0vw;
+}
+
+.pMiddle{
+	
+	margin: 2vw;
+}
 
 
 
